@@ -59,4 +59,4 @@
 
 # Credits 💖
 
-- [katil](https://github.com/latilkunjan) ``Dev``
+- [katil](https://github.com/Fawziimostafa) ``Dev``
